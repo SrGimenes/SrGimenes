@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrGimenes.
-- 👀 I’m interested in work with database. 
-- 🌱 I’m currently learning database.
-- 💞️ I’m looking to collaborate on ...
+- 👀 ...
+- 🌱 I’m currently working as a full stack developer.
+- 💞️ ...
 - 📫 How to reach me is gabrielgimenes@unipam.edu.br.
 
 <!---
