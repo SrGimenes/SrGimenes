@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrGimenes.
 - 👀 ...
-- 🌱 I’m currently working as a full stack developer.
+- 🌱 I’m currently working as a junior full stack developer.
 - 💞️ ...
 - 📫 How to reach me is gabrielgimenes@unipam.edu.br.
 
