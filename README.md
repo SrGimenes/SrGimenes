@@ -40,10 +40,15 @@
 <br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> ⚡ Stats ⚡ </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SrGimenes/SrGimenes/output/github-contribution-grid-snake.svg" />
-  
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SrGimenes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </br>
+  <h2> ⚡ My Streak ⚡ </h2>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SrGimenes&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </br>
+  <h2> ⚡ My WakaTime Stats ⚡ </h2>
+  <img width="530em"src="https://github-readme-stats.vercel.app/api/wakatime?username=Gimenes&layout=compact&theme=tokyonight" alt="gabriel" />
   <br/><br/><br/>
 </div>
 
